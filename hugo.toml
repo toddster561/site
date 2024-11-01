@@ -1,4 +1,4 @@
-baseURL = 'https://toddster561.github.io/"
+baseURL = "https://toddster561.github.io/"
 languageCode = 'en-us'
 title = 'DND Site'
 theme = "paper"
